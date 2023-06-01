@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[88],{1147:function(t,u,e){"use strict";e.r(u);var n=e(0),o=e(63),c=e(73),r=e(26);u.default=Object(c.b)(null,function(t){return Object(o.bindActionCreators)({LogoutRequest:r.default.auth.Logout.request},t)})(function(t){var u=t.LogoutRequest;return Object(n.useEffect)(function(){u()},[]),null})}}]);
